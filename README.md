@@ -1,4 +1,4 @@
-## Hello, Dev! How are you?!👋
+## Hi Dev! How are you?👋
 
 
 ### - Who I am?
