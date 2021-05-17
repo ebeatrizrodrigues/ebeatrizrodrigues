@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello Dev! How are you?!👋
 
-<!--
-**ebeatrizrodrigues/ebeatrizrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Who I am?
+My name is Beatriz Rodrigues. I'm 21years old and I'm from Guarujá-SP, Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+⚡ "Even if you live or work in the midst of machines, the true and most meaningful interaction remains human interaction." 
+
+Skills
+🌱 I’m currently learning JS, Angular, C#, JS and Node JS.
+
+I'm looking for
+👯 I’m looking to collaborate on a project
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+malito: ebeatrizrodrigues@outlook.com
+linkedIn: https://www.linkedin.com/in/ebeatrizrodrigues/
+
+😄 Languages
+English | Intermediate
+French | Beginner
+Spanish | Beginner
+Portuguese | Native
+
