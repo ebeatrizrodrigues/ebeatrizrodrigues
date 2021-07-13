@@ -22,8 +22,8 @@
   linkedIn: https://www.linkedin.com/in/ebeatrizrodrigues/
 
 ###  😄 Languages
-  English | Intermediate
-  French | Beginner
-  Spanish | Beginner
-  Portuguese | Native
+  English Intermediate |
+  French Beginner |
+  Spanish Beginner |
+  Portuguese Native
 
